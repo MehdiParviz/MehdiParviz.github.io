@@ -8,14 +8,14 @@ Statistics: Mixed-effect modelling, Survival Analysis, Multiple Measurements
 
 ## Education
 Amirkabir University of Technology (Tehran, Iran Sep. 2002- Feb. 2005)
-•	M.Sc., Electrical Engineering
-•	Thesis: Improvement of Stochastic Soft Segment Model in Isolated word Recognition.
-•	Advisor: A/Prof. Abolghasem Sayadian
+-	M.Sc., Electrical Engineering
+-	Thesis: Improvement of Stochastic Soft Segment Model in Isolated word Recognition.
+-	Advisor: A/Prof. Abolghasem Sayadian
 
 Iran University of Science and Technology (Tehran, Iran Sep. 1998-Sep. 2002)
-•	B.Sc., Electrical Engineering
-•	Thesis: Design of Image Transmitter-Receiver via ISA port 
-•	Advisor: Dr. Shahriar Baradaran-Shokohi
+-	B.Sc., Electrical Engineering
+-	Thesis: Design of Image Transmitter-Receiver via ISA port 
+-	Advisor: Dr. Shahriar Baradaran-Shokohi
 
 ## Publications
 ###	Journal Papers
