@@ -1,10 +1,10 @@
 # Machine Learning 
 ## Research Interest
-Deep Learning: Transformers, Diffusion Models, LSTM, CNN
-Machine Learning (Supervised, Unsupervised), Transfer Learning, Multi-task Learning, Calibration, Explainability
-Natural Language Processing (Topic Modeling, Word Embedding, Medical Texts Analysis) 
-Signal Processing, Image and Speech Processing
-Statistics: Mixed-effect modelling, Survival Analysis, Multiple Measurements
+- Deep Learning: Transformers, Diffusion Models, LSTM, CNN
+- Machine Learning (Supervised, Unsupervised), Transfer Learning, Multi-task Learning, Calibration, Explainability
+- Natural Language Processing (Topic Modeling, Word Embedding, Medical Texts Analysis) 
+- Signal Processing, Image and Speech Processing
+- Statistics: Mixed-effect modelling, Survival Analysis, Multiple Measurements
 
 ## Education
 Amirkabir University of Technology (Tehran, Iran Sep. 2002- Feb. 2005)
