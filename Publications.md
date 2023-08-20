@@ -1,3 +1,3 @@
 layout: page
-title: "PAGE-TITLE"
+title: "Publications"
 permalink: https://MehdiParviz.github.io/about/contact
