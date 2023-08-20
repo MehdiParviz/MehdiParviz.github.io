@@ -16,7 +16,8 @@ permalink: /publications/
 6.	 Y. Erfani, M. Parviz, Shirin Ghanbari, “Improved time spread echo hiding method for robust and transparent audio watermarking” 15th IEEE International Conference on Signal Processing and Communications Applications, (SIU 2007), PP 1-4, Turkey,
 7.	 F. Mahmoudi, M. Parviz, “Visual Hand Tracking Algorithm”, International Conference on Geometric Modeling and Imaging (GMAI 2006), PP. 228-232, London, UK.,
 8.	 M. Parviz, A. Sayadian, “Using Stochastic Soft Segment Model in Isolated and Connected Word Recognition”, 13th Iranian Conference on Electrical Engineering (ICEE 2005), Zanjan Iran.
-	Conference Presentation and Abstracts
+
+###	Conference Presentation and Abstracts
 1.	Mehdi Parviz, Rudi Agius, Emelie Curovic Rotbain, Kathrine Aarup, Noomi Vainer, Carsten Utoft Niemann; Identifying CLL Patients at High Risk of Infection on Treatment Using Machine Learning. Blood 2022; 140 (Supplement 1): 7034–7035. doi: https://doi.org/10.1182/blood-2022-158505
 2.	Parviz, M., Johnson, M., Johnson, B.W., & Brock, J. (2011, December). “Using language models and latent semantic analysis to characterize the N400m neural response”. Paper presented at the Australasian Cognitive Neuroscience Conference, Sydney, Australia.
 3.	Parviz, M., Johnson, M., & Brock, J. (2012, December). “Spatiotemporal Correlation of MEG Data and Language Models”. Paper presented at the Australasian Cognitive Neuroscience Conference, Brisbane, Australia.
