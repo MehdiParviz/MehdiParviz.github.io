@@ -18,6 +18,7 @@ Iran University of Science and Technology (Tehran, Iran Sep. 1998-Sep. 2002)
 -	Advisor: Dr. Shahriar Baradaran-Shokohi
 
 ## Publications
+<a href="/publications">link text</a>
 ###	Journal Papers
 1. Mehdi Parviz, Christian Brieghel, Rudi Agius, Carsten U. Niemann, Prediction of clinical outcome in CLL based on recurrent gene mutations, CLL-IPI variables, and (para)clinical data, Blood Advances,2022, ISSN 2473-9529, https://doi.org/10.1182/bloodadvances.2021006351.
 2. Rudi Agius, Mehdi Parviz & Carsten Utoft Niemann (2021) Artificial intelligence models in chronic lymphocytic leukemia – recommendations toward state-of-the-art, Leukemia & Lymphoma, DOI: 10.1080/10428194.2021.1973672 
