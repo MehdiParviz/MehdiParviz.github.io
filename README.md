@@ -17,7 +17,7 @@ Iran University of Science and Technology (Tehran, Iran Sep. 1998-Sep. 2002)
 -	Thesis: Design of Image Transmitter-Receiver via ISA port 
 -	Advisor: Dr. Shahriar Baradaran-Shokohi
 
-<a href="/publications"><h2>Publications</h2></a>
+<h2><a href="/publications">Publications</a></h2>
 
 
 ## Work Experiences in Data science and Machine Learning
