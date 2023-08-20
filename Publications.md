@@ -1,3 +1,3 @@
 layout: page
 title: "Publications"
-permalink: https://MehdiParviz.github.io/about/contact
+permalink: https://mehdiparviz.github.io/publications/
