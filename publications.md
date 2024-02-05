@@ -3,10 +3,11 @@ title: "Publications"
 permalink: /publications/
 -->
 ###	Journal Papers
-1. Mehdi Parviz, Christian Brieghel, Rudi Agius, Carsten U. Niemann, Prediction of clinical outcome in CLL based on recurrent gene mutations, CLL-IPI variables, and (para)clinical data, Blood Advances,2022, ISSN 2473-9529, https://doi.org/10.1182/bloodadvances.2021006351.
-2. Rudi Agius, Mehdi Parviz & Carsten Utoft Niemann (2021) Artificial intelligence models in chronic lymphocytic leukemia – recommendations toward state-of-the-art, Leukemia & Lymphoma, DOI: 10.1080/10428194.2021.1973672 
-3. Mehdi Parviz and M. Shahram Moin “Exploring AUC Boosting Approach in Multimodal Biometrics Score Level Fusion”. Journal of Information Hiding and Multimedia Signal Processing, Vol. 2, No. 1, pp. 51-59, January 2011, 
-4. Neda Esmaeili, Marzieh Golabbakhsh, Soheila Makaremi, Mahmoud Saghaei, Mehdi Parviz, Hossein Rabbani “Tracheal Sound Analysis for Automatic Detection of Respiratory Depression in Adult Patients during Cataract Surgery under Sedation” Journal of Medical Signals and Sensors 2018
+1. Mehdi Parviz, Rudi Agius, Emelie Curovic Rotbain, Noomi Vainer, Kathrine Aarup & Carsten U. Niemann (2024) Identifying CLL patients at high risk of atrial fibrillation on treatment using machine learning, Leukemia & Lymphoma, DOI: 10.1080/10428194.2023.2299737 
+2. Mehdi Parviz, Christian Brieghel, Rudi Agius, Carsten U. Niemann, Prediction of clinical outcome in CLL based on recurrent gene mutations, CLL-IPI variables, and (para)clinical data, Blood Advances,2022, ISSN 2473-9529, https://doi.org/10.1182/bloodadvances.2021006351.
+3. Rudi Agius, Mehdi Parviz & Carsten Utoft Niemann (2021) Artificial intelligence models in chronic lymphocytic leukemia – recommendations toward state-of-the-art, Leukemia & Lymphoma, DOI: 10.1080/10428194.2021.1973672 
+4. Mehdi Parviz and M. Shahram Moin “Exploring AUC Boosting Approach in Multimodal Biometrics Score Level Fusion”. Journal of Information Hiding and Multimedia Signal Processing, Vol. 2, No. 1, pp. 51-59, January 2011, 
+5. Neda Esmaeili, Marzieh Golabbakhsh, Soheila Makaremi, Mahmoud Saghaei, Mehdi Parviz, Hossein Rabbani “Tracheal Sound Analysis for Automatic Detection of Respiratory Depression in Adult Patients during Cataract Surgery under Sedation” Journal of Medical Signals and Sensors 2018
 
 ###	Conference Papers
 1.	Mehdi Parviz, M. Shahram Moin, “Multivariate Polynomials Estimation Based on GradientBoost in Multimodal Biometrics”. Proceeding of the 4th International Conference on Intelligent Computing (ICIC 2008), Communications in Computer and Information Science, Vol. 15, PP. 471-477, 2008, ISBN 978-3-540-85929-1, Springer-Verlag Berlin Heidelberg, 
